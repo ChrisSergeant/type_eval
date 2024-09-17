@@ -1,0 +1,391 @@
+{
+    "facts": [
+        {
+            "Événement historique": "Pendant la Première Guerre mondiale, un éléphant nommé 'Jack' a été enrôlé dans l'armée américaine et utilisé pour transporter des obus et des matériaux de construction en France."
+        },
+        {
+            "Science": "Les abeilles peuvent être dressées pour détecter certaines maladies humaines telles que le cancer et le diabète en reniflant l'haleine des patients."
+        },
+        {
+            "Technologie": "Le premier ordinateur électromécanique programmable, appelé Colossus, a été construit en 1943 par les Britanniques pour décrypter les codes secrets allemands pendant la Seconde Guerre mondiale."
+        },
+        {
+            "Nature": "Les éléphants ont un sens du deuil et peuvent pleurer la perte d'un compagnon ou d'un membre de la famille."
+        },
+        {
+            "Culture": "L'Empire romain a existé pendant plus de 1 000 ans, de 27 avant J.-C. à 476 après J.-C., et a laissé un héritage durable en architecture, en droit, en langue et en culture."
+        },
+        {
+            "Sport": "Le golf est l'un des seuls sports à avoir été joué sur la Lune. En 1971, l'astronaute Alan Shepard a utilisé un club de golf improvisé pour frapper une balle."
+        },
+        {
+            "Géographie": "Le Mont Everest, situé dans la chaîne de l'Himalaya, est la plus haute montagne du monde, avec une altitude de 8 848 mètres (29 029 pieds) au-dessus du niveau de la mer."
+        },
+        {
+            "Animaux": "Les girafes ont la même quantité de vertèbres cervicales que les humains, soit sept, bien qu'elles soient beaucoup plus longues."
+        },
+        {
+            "Histoire de l'art": "Léonard de Vinci, célèbre pour des œuvres comme la Mona Lisa et la Cène, était également un inventeur prolifique, concevant des machines volantes, des ponts et des armes."
+        },
+        {
+            "Cinéma": "Le premier film réalisé par des frères Auguste et Louis Lumière en 1895 s'intitulait 'La Sortie de l'usine Lumière à Lyon' et est souvent considéré comme le premier film de l'histoire du cinéma."
+        },
+        {
+            "Musique": "La chanson 'Happy Birthday' est l'une des chansons les plus connues au monde et est chantée dans de nombreuses langues lors de célébrations d'anniversaire."
+        },
+        {
+            "Technologie": "Le World Wide Web a été inventé par Tim Berners-Lee en 1989, révolutionnant la façon dont les gens accèdent et partagent des informations à travers le monde."
+        },
+        {
+            "Nature": "Les caméléons peuvent changer de couleur pour se camoufler dans leur environnement, communiquer avec d'autres caméléons et réguler leur température corporelle."
+        },
+        {
+            "Culture": "Le Taj Mahal, un symbole emblématique de l'Inde, a été construit par l'empereur moghol Shah Jahan en mémoire de sa femme Mumtaz Mahal."
+        },
+        {
+            "Sport": "Le football, également appelé soccer dans certains pays, est le sport le plus populaire au monde, joué par des millions de personnes de tous âges et de toutes nationalités."
+        },
+        {
+            "Géographie": "La Grande Muraille de Chine, construite et reconstruite sur plusieurs siècles, est l'une des structures architecturales les plus célèbres et les plus impressionnantes au monde."
+        },
+        {
+            "Animaux": "Les pingouins ne se trouvent pas uniquement dans l'Antarctique ; certaines espèces vivent également dans des climats plus tempérés comme en Afrique du Sud et en Australie."
+        },
+        {
+            "Histoire de l'art": "La peinture 'La Nuit étoilée' de Vincent van Gogh, célèbre pour ses tourbillons d'étoiles, a été peinte en 1889 alors que van Gogh était interné dans un asile psychiatrique."
+        },
+        {
+            "Cinéma": "Le film 'Forrest Gump', réalisé par Robert Zemeckis et sorti en 1994, a remporté six Oscars, dont celui du meilleur film, et est devenu un classique du cinéma américain."
+        },
+        {
+            "Musique": "Le compositeur Ludwig van Beethoven a continué à composer de la musique même après avoir perdu l'ouïe, créant des œuvres célèbres telles que sa Neuvième Symphonie."
+        },
+        {
+            "Technologie": "Le premier téléphone portable commercialisé, le Motorola DynaTAC 8000X, pesait près d'un kilogramme et avait une autonomie de batterie d'environ 30 minutes."
+        },
+        {
+            "Nature": "Les séquoias géants, parmi les arbres les plus grands et les plus anciens du monde, peuvent vivre pendant des millénaires et atteindre des hauteurs de plus de 90 mètres."
+        },
+        {
+            "Culture": "La Joconde, peinte par Léonard de Vinci au début du XVIe siècle, est l'une des œuvres d'art les plus célèbres et les plus reconnaissables au monde."
+        },
+        {
+            "Sport": "Le cricket est un sport populaire dans de nombreux pays, notamment en Inde, en Angleterre et en Australie, et est souvent comparé au baseball en raison de certaines similitudes dans les règles."
+        },
+        {
+            "Géographie": "Le Sahara, le plus grand désert chaud du monde, couvre une grande partie de l'Afrique du Nord et est presque aussi grand que les États-Unis."
+        },
+        {
+            "Animaux": "Le tigre de Sibérie, également appelé tigre de l'Amour, est la plus grande sous-espèce de tigre et est en danger critique d'extinction en raison de la chasse et de la perte d'habitat."
+        },
+        {
+            "Histoire de l'art": "La chapelle Sixtine, située au Vatican, est célèbre pour ses fresques réalisées par des artistes comme Michel-Ange, qui a peint le célèbre plafond et le Jugement dernier."
+        },
+        {
+            "Cinéma": "Le premier film en couleur, 'Becky Sharp', est sorti en 1935 et était basé sur le roman 'Vanity Fair' de William Makepeace Thackeray."
+        },
+        {
+            "Musique": "Le roi de la pop, Michael Jackson, a vendu plus de 350 millions de disques dans le monde entier, ce qui en fait l'un des artistes musicaux les plus vendus de tous les temps."
+        },
+        {
+            "Technologie": "Le premier ordinateur personnel commercialisé, l'Altair 8800, est apparu en 1975 et était vendu en kit sous forme de carte mère à assembler par l'utilisateur."
+        },
+        {
+            "Nature": "Le paon mâle utilise ses magnifiques plumes colorées pour attirer l'attention des femelles lors de la parade nuptiale, mais il les replie généralement lorsqu'il n'est pas en train de se reproduire."
+        },
+        {
+            "Culture": "La Tour Eiffel, construite pour l'Exposition universelle de Paris en 1889, était à l'origine critiquée par de nombreux artistes et intellectuels, mais est devenue l'un des symboles les plus célèbres de la France."
+        },
+        {
+            "Sport": "Le basketball a été inventé par James Naismith en 1891 comme un moyen pour ses élèves de rester actifs à l'intérieur pendant les mois d'hiver à Springfield, dans le Massachusetts."
+        },
+        {
+            "Géographie": "Les chutes du Niagara, situées à la frontière entre le Canada et les États-Unis, sont parmi les chutes d'eau les plus célèbres et les plus visitées au monde."
+        },
+        {
+            "Animaux": "Les kangourous sont des marsupiaux natifs d'Australie et possèdent de puissantes pattes arrière qui leur permettent de sauter à des vitesses allant jusqu'à 70 km/h et sur des distances allant jusqu'à 9 mètres en un seul bond."
+        },
+        {
+            "Histoire de l'art": "La peinture 'La Jeune Fille à la perle' de Johannes Vermeer, souvent appelée la 'Mona Lisa du Nord', est célèbre pour l'expression énigmatique du visage de la jeune fille."
+        },
+        {
+            "Cinéma": "Le film 'Star Wars : Épisode IV - Un nouvel espoir', sorti en 1977, a lancé l'une des franchises les plus réussies et les plus influentes de l'histoire du cinéma."
+        },
+        {
+            "Musique": "La chanteuse Whitney Houston est la première artiste solo à avoir placé sept singles consécutifs en tête du classement Billboard Hot 100, un record qu'elle détient toujours."
+        },
+        {
+            "Technologie": "Le premier navigateur web graphique, appelé Mosaic, a été développé par l'Université de l'Illinois en 1993, ouvrant la voie à l'expansion rapide de l'Internet grand public."
+        },
+        {
+            "Nature": "Les koalas, bien que souvent appelés 'koalas' à tort, sont en fait des marsupiaux et sont étroitement liés aux wombats et aux kangourous."
+        },
+        {
+            "Culture": "La Cité interdite, située au cœur de Pékin, a servi de palais impérial pendant près de 500 ans et est maintenant un site du patrimoine mondial de l'UNESCO ouvert aux visiteurs."
+        },
+        {
+            "Sport": "Le tennis, originaire de la France au XIIe siècle, est maintenant l'un des sports les plus populaires au monde, avec des tournois majeurs comme Wimbledon, Roland-Garros et l'US Open."
+        },
+        {
+            "Géographie": "Le Grand Canyon, situé en Arizona, aux États-Unis, est une formation géologique spectaculaire creusée par le fleuve Colorado pendant des millions d'années."
+        },
+        {
+            "Animaux": "Les dauphins sont parmi les animaux les plus intelligents de la planète, capables de communiquer, de résoudre des problèmes et même de former des alliances avec d'autres dauphins."
+        },
+        {
+            "Histoire de l'art": "La sculpture 'David' de Michel-Ange, achevée en 1504, est l'une des sculptures les plus célèbres et les plus emblématiques de la Renaissance italienne."
+        },
+        {
+            "Cinéma": "Le premier film sonore à succès, 'The Jazz Singer', est sorti en 1927, marquant une avancée majeure dans l'industrie cinématographique et mettant fin à l'ère du cinéma muet."
+        },
+        {
+            "Musique": "Le compositeur Johann Sebastian Bach est souvent considéré comme l'un des plus grands compositeurs de tous les temps, ayant écrit des œuvres influentes dans presque tous les genres de musique de son époque."
+        },
+        {
+            "Technologie": "La première photographie permanente, connue sous le nom de 'View from the Window at Le Gras', a été prise par Joseph Nicéphore Niépce en 1826 ou 1827."
+        },
+        {
+            "Nature": "Les pandas géants, emblématiques de la Chine, sont une espèce en danger d'extinction en raison de la perte d'habitat et du faible taux de reproduction en captivité."
+        },
+        {
+            "Culture": "La pyramide de Gizeh, la plus grande et la plus célèbre des pyramides égyptiennes, a été construite comme tombeau pour le pharaon Khéops vers 2560 avant J.-C."
+        },
+        {
+            "Sport": "Le baseball est souvent appelé le 'passetemps national' des États-Unis et est l'un des sports les plus anciens et les plus traditionnels du pays."
+        },
+        {
+            "Géographie": "La Grande Barrière de Corail, située au large des côtes du Queensland, en Australie, est le plus grand système de récifs coralliens au monde et est visible depuis l'espace."
+        },
+        {
+            "Animaux": "Les loups sont des animaux sociaux qui vivent en meutes dirigées par un couple dominant et communiquent entre eux par des vocalisations complexes."
+        },
+        {
+            "Histoire de l'art": "La fresque 'La Cène' de Léonard de Vinci, peinte dans le réfectoire du couvent de Santa Maria delle Grazie à Milan, est l'une des œuvres les plus célèbres et les plus étudiées de la Renaissance italienne."
+        },
+        {
+            "Cinéma": "Le film d'animation 'Toy Story', sorti en 1995 et produit par Pixar Animation Studios, a été le premier long métrage entièrement animé par ordinateur et a ouvert la voie à une nouvelle ère dans l'animation."
+        },
+        {
+            "Musique": "Le groupe britannique The Beatles est l'un des groupes de musique les plus influents de tous les temps, ayant vendu plus de 600 millions de disques dans le monde entier."
+        },
+        {
+            "Technologie": "Le premier ordinateur électronique programmable, appelé ENIAC, a été développé pendant la Seconde Guerre mondiale par les États-Unis pour effectuer des calculs balistiques."
+        },
+        {
+            "Nature": "Les caméléons ont une langue incroyablement rapide et collante qui peut être projetée à une vitesse de 26 fois la gravité, leur permettant de capturer des proies en une fraction de seconde."
+        },
+        {
+            "Culture": "La Statue de la Liberté, un cadeau de la France aux États-Unis, a été conçue par le sculpteur français Frédéric Auguste Bartholdi et inaugurée en 1886 à Liberty Island, à New York."
+        },
+        {
+            "Sport": "Le rugby, originaire d'Angleterre au XIXe siècle, est maintenant joué dans le monde entier, avec des variantes comme le rugby à XV, le rugby à XIII et le rugby à sept."
+        },
+        {
+            "Géographie": "Le mont Kilimandjaro, situé en Tanzanie, est le plus haut sommet d'Afrique, culminant à 5 895 mètres au-dessus du niveau de la mer."
+        },
+        {
+            "Animaux": "Les éléphants d'Afrique sont les plus grands animaux terrestres vivants et peuvent peser jusqu'à 6 000 kilogrammes (13 000 livres)."
+        },
+        {
+            "Histoire de l'art": "Le peintre espagnol Salvador Dalí était connu pour ses œuvres surréalistes et son apparence excentrique, y compris sa célèbre moustache en forme de croc de lama."
+        },
+        {
+            "Cinéma": "Le film d'horreur 'Psychose', réalisé par Alfred Hitchcock et sorti en 1960, est souvent considéré comme l'un des meilleurs films de son genre et a popularisé le genre du thriller psychologique."
+        },
+        {
+            "Musique": "Le compositeur Wolfgang Amadeus Mozart a commencé à composer de la musique à l'âge de cinq ans et a écrit plus de 600 œuvres dans tous les genres musicaux populaires de son époque."
+        },
+        {
+            "Technologie": "La première voiture automobile à essence a été construite en 1885 par l'ingénieur allemand Karl Benz, donnant naissance à l'industrie automobile moderne."
+        },
+        {
+            "Nature": "Les méduses sont des créatures marines anciennes qui existent depuis des millions d'années et sont composées à 95 % d'eau."
+        },
+        {
+            "Culture": "La Tour de Pise, célèbre pour son inclinaison caractéristique, a été construite sur une période de 199 ans, commençant en 1173."
+        },
+        {
+            "Sport": "Le surf, originaire de la Polynésie ancienne, est devenu un sport populaire à travers le monde, avec des destinations de surf renommées comme Hawaii, la Californie et l'Australie."
+        },
+        {
+            "Géographie": "Le fleuve Amazone, situé en Amérique du Sud, est le plus grand fleuve du monde en termes de débit d'eau et de volume, et abrite une biodiversité incroyablement riche."
+        },
+        {
+            "Animaux": "Les lions sont les seuls grands félins qui vivent en groupe social organisé, appelé fierté, composé de femelles apparentées et de leurs petits, ainsi que de quelques mâles adultes."
+        },
+        {
+            "Histoire de l'art": "La peinture 'La Naissance de Vénus' de Sandro Botticelli, achevée vers 1486, est l'une des œuvres les plus célèbres du début de la Renaissance italienne."
+        },
+        {
+            "Cinéma": "Le film 'Jurassic Park', réalisé par Steven Spielberg et sorti en 1993, a révolutionné l'industrie cinématographique avec ses effets spéciaux révolutionnaires, qui ont donné vie aux dinosaures sur grand écran comme jamais auparavant."
+        },
+        {
+            "Musique": "Le compositeur Ludwig van Beethoven est devenu progressivement sourd au cours de sa vie mais a continué à composer de la musique, y compris certaines de ses œuvres les plus célèbres, comme sa Neuvième Symphonie."
+        },
+        {
+            "Technologie": "La première photographie couleur a été prise en 1861 par le physicien écossais James Clerk Maxwell en utilisant un processus appelé trichromie, bien que la photographie couleur n'ait pas été largement utilisée avant le XXe siècle."
+        },
+        {
+            "Nature": "Les fourmis sont parmi les insectes les plus sociaux, vivant dans des colonies organisées et coopérant pour trouver de la nourriture, protéger leur territoire et élever leurs jeunes."
+        },
+        {
+            "Culture": "La Cène, la dernière soirée de Jésus avec ses disciples avant sa crucifixion, a été peinte par de nombreux artistes, dont Léonard de Vinci dans l'une de ses œuvres les plus célèbres."
+        },
+        {
+            "Sport": "La natation est l'un des sports les plus anciens, avec des preuves d'activités de natation datant de l'Antiquité, et est aujourd'hui pratiquée à des fins récréatives, compétitives et thérapeutiques."
+        },
+        {
+            "Géographie": "Le lac Baïkal, situé en Sibérie, en Russie, est le lac d'eau douce le plus profond et le plus ancien du monde, contenant environ 20 % de l'eau douce non gelée de la planète."
+        },
+        {
+            "Animaux": "Les éléphants d'Asie, légèrement plus petits que leurs cousins africains, sont également menacés en raison de la perte d'habitat et du braconnage pour leurs défenses en ivoire."
+        },
+        {
+            "Histoire de l'art": "La peinture 'La Joconde' de Léonard de Vinci, souvent appelée 'Mona Lisa', est célèbre pour le sourire énigmatique de la femme représentée et est l'une des œuvres d'art les plus étudiées et reproduites au monde."
+        },
+        {
+            "Cinéma": "Le film 'The Wizard of Oz', sorti en 1939, est l'un des films les plus célèbres et les plus appréciés de l'histoire du cinéma, notamment pour sa transition novatrice entre le noir et blanc et la couleur."
+        },
+        {
+            "Musique": "Le groupe de rock Queen, avec son leader charismatique Freddie Mercury, a produit certains des plus grands succès de l'histoire de la musique, dont 'Bohemian Rhapsody' et 'We Will Rock You'."
+        },
+        {
+            "Technologie": "Le premier e-mail a été envoyé par Ray Tomlinson en 1971, bien que le contenu exact de ce premier message ait été perdu dans l'histoire."
+        },
+        {
+            "Nature": "Les tortues sont parmi les reptiles les plus anciens, ayant existé sur Terre pendant plus de 200 millions d'années, et peuvent être trouvées sur tous les continents sauf l'Antarctique."
+        },
+        {
+            "Culture": "La Grande Muraille de Chine, construite pour se protéger des invasions du nord, est l'une des merveilles architecturales les plus impressionnantes du monde et est inscrite au patrimoine mondial de l'UNESCO depuis 1987."
+        },
+        {
+            "Sport": "Le ski, originaire des régions montagneuses d'Europe, est maintenant pratiqué dans le monde entier, avec des disciplines allant du ski alpin à la descente en snowboard."
+        },
+        {
+            "Géographie": "Le mont Everest, la plus haute montagne du monde, a été officiellement mesuré à 8 848,86 mètres (29 031,7 pieds) de hauteur en 2020."
+        },
+        {
+            "Animaux": "Les guépards sont les mammifères terrestres les plus rapides au monde, capables de courir à des vitesses allant jusqu'à 120 km/h sur de courtes distances."
+        },
+        {
+            "Histoire de l'art": "La peinture 'Les Tournesols' de Vincent van Gogh, une série de tableaux réalisés par l'artiste néerlandais, est parmi ses œuvres les plus célèbres et les plus reconnaissables."
+        },
+        {
+            "Cinéma": "Le film 'Titanic', réalisé par James Cameron et sorti en 1997, a été un énorme succès commercial et a remporté 11 Oscars, dont celui du meilleur film."
+        },
+        {
+            "Musique": "Le compositeur russe Piotr Ilitch Tchaïkovski est connu pour ses ballets classiques, dont 'Le Lac des cygnes', 'La Belle au bois dormant' et 'Casse-Noisette'."
+        },
+        {
+            "Technologie": "Le premier ordinateur personnel moderne, l'Altair 8800, a été commercialisé en 1975 par Micro Instrumentation and Telemetry Systems (MITS) et était vendu en kit à assembler par l'utilisateur."
+        },
+        {
+            "Nature": "Les ours polaires sont les plus grands carnivores terrestres et sont parfaitement adaptés à leur environnement arctique, avec une épaisse fourrure, une couche de graisse isolante et des pattes palmées pour nager."
+        },
+        {
+            "Culture": "La Statue de la Liberté, un symbole emblématique de la liberté et de la démocratie, a été conçue par le sculpteur français Frédéric Auguste Bartholdi et offerte par la France aux États-Unis en 1886."
+        },
+        {
+            "Sport": "La boxe, un sport de combat ancien, est devenue un sport populaire dans le monde entier, avec des événements majeurs comme les Jeux olympiques et les championnats du monde professionnels."
+        },
+        {
+            "Géographie": "Le mont Kilimandjaro, situé en Tanzanie, est le plus haut sommet d'Afrique et l'une des montagnes les plus célèbres du monde, attirant des milliers de grimpeurs chaque année."
+        },
+        {
+            "Animaux": "Les éléphants sont connus pour leur intelligence, leur mémoire à long terme et leur capacité à former des liens sociaux étroits au sein de leurs troupeaux familiaux."
+        },
+        {
+            "Histoire de l'art": "La chapelle Sixtine, située au Vatican, est célèbre pour ses fresques réalisées par des artistes comme Michel-Ange, qui a peint le plafond et le Jugement dernier."
+        },
+        {
+            "Cinéma": "Le film 'La Liste de Schindler', réalisé par Steven Spielberg et sorti en 1993, est basé sur l'histoire vraie d'Oskar Schindler, un homme d'affaires allemand qui a sauvé plus de 1 200 Juifs pendant l'Holocauste."
+        },
+        {
+            "Musique": "Le compositeur allemand Ludwig van Beethoven, qui a continué à composer de la musique même après être devenu sourd, est connu pour des œuvres célèbres comme sa Neuvième Symphonie et ses Sonates pour piano."
+        },
+        {
+            "Technologie": "Le premier ordinateur personnel commercialisé, l'Altair 8800, a été annoncé dans la revue Popular Electronics en 1975 et était vendu en kit pour être assemblé par l'utilisateur."
+        },
+        {
+            "Nature": "Les requins sont des prédateurs marins redoutables dotés de sens aiguisés, de dents tranchantes et d'une réputation de dangerosité, bien que la plupart des espèces de requins ne soient pas une menace pour les humains."
+        },
+        {
+            "Culture": "La Tour de Londres, un complexe historique situé sur la rive nord de la Tamise, abrite les joyaux de la Couronne britannique et est une attraction touristique populaire à Londres."
+        },
+        {
+            "Sport": "Le football américain est l'un des sports les plus populaires aux États-Unis, avec la National Football League (NFL) comme ligue professionnelle principale et le Super Bowl comme événement sportif le plus regardé."
+        },
+        {
+            "Géographie": "Les montagnes Rocheuses, qui s'étendent sur plus de 3 000 miles à travers l'Amérique du Nord, sont une chaîne de montagnes emblématique connue pour leur beauté naturelle et leur diversité écologique."
+        },
+        {
+            "Animaux": "Les pandas géants, natifs de la Chine, sont des espèces menacées en raison de la perte d'habitat et de la faible fécondité en captivité."
+        },
+        {
+            "Histoire de l'art": "La peinture 'La Nuit étoilée' de Vincent van Gogh, célèbre pour ses tourbillons d'étoiles, a été peinte en 1889 alors que van Gogh était interné dans un asile psychiatrique en France."
+        },
+        {
+            "Cinéma": "Le film 'Le Seigneur des Anneaux : Le Retour du Roi', réalisé par Peter Jackson et sorti en 2003, a remporté 11 Oscars, dont celui du meilleur film, et est basé sur le roman de J.R.R. Tolkien."
+        },
+        {
+            "Musique": "Le musicien et compositeur autrichien Wolfgang Amadeus Mozart a commencé à composer de la musique à l'âge de cinq ans et est devenu l'un des compositeurs les plus célèbres et les plus influents de tous les temps."
+        },
+        {
+            "Technologie": "Le premier ordinateur électronique programmable, appelé Colossus, a été construit en 1943 par les Britanniques pour décrypter les codes secrets allemands pendant la Seconde Guerre mondiale."
+        },
+        {
+            "Nature": "Les lions sont des prédateurs majestueux et sociaux qui vivent en groupes appelés fiertés, dirigés par un ou plusieurs mâles dominants."
+        },
+        {
+            "Culture": "La pyramide de Khéops, construite par l'ancienne civilisation égyptienne il y a plus de 4 500 ans, est l'une des sept merveilles du monde antique et reste l'une des structures les plus célèbres et les plus mystérieuses de l'histoire de l'humanité."
+        },
+        {
+            "Sport": "Le basketball, inventé par James Naismith en 1891, est maintenant l'un des sports les plus populaires au monde, avec des ligues professionnelles dans de nombreux pays et une forte présence aux Jeux olympiques."
+        },
+        {
+            "Géographie": "Le désert du Sahara, situé en Afrique du Nord, est le plus grand désert chaud du monde, couvrant une superficie d'environ 9,2 millions de kilomètres carrés."
+        },
+        {
+            "Animaux": "Les gorilles sont les plus grands primates vivants et partagent plus de 98 % de leur ADN avec les humains, faisant d'eux nos plus proches parents dans le règne animal."
+        },
+        {
+            "Histoire de l'art": "La peinture 'La Création d'Adam', réalisée par Michel-Ange sur le plafond de la chapelle Sixtine au Vatican, est l'une des œuvres d'art les plus célèbres de la Renaissance italienne."
+        },
+        {
+            "Cinéma": "Le film 'Pulp Fiction', réalisé par Quentin Tarantino et sorti en 1994, est souvent considéré comme l'un des meilleurs films des années 90 et a remporté la Palme d'Or au Festival de Cannes."
+        },
+        {
+            "Musique": "Le groupe de rock britannique Led Zeppelin, formé en 1968, est l'un des groupes de musique les plus influents de tous les temps, avec des albums emblématiques comme 'Led Zeppelin IV' et 'Physical Graffiti'."
+        },
+        {
+            "Technologie": "Le premier ordinateur personnel commercialisé, l'Altair 8800, était vendu en kit et nécessitait une certaine expertise technique pour assembler et utiliser, ce qui limitait sa popularité initiale."
+        },
+        {
+            "Nature": "Les dauphins sont des mammifères marins intelligents et sociaux qui communiquent entre eux par des sifflements, des clics et des postures corporelles."
+        },
+        {
+            "Culture": "La Grande Muraille de Chine, construite et reconstruite sur plusieurs siècles, est l'une des structures architecturales les plus emblématiques et les plus impressionnantes au monde."
+        },
+        {
+            "Sport": "Le football, également connu sous le nom de soccer dans certains pays, est le sport le plus populaire au monde en termes de nombre de joueurs et de fans, avec des milliards de personnes regardant la Coupe du monde de la FIFA tous les quatre ans."
+        },
+        {
+            "Géographie": "Le mont Everest, situé dans la chaîne de l'Himalaya, est la plus haute montagne du monde, avec une altitude de 8 848 mètres (29 029 pieds) au-dessus du niveau de la mer."
+        },
+        {
+            "Animaux": "Les girafes ont la même quantité de vertèbres cervicales que les humains, soit sept, bien qu'elles soient beaucoup plus longues."
+        },
+        {
+            "Histoire de l'art": "Léonard de Vinci, célèbre pour des œuvres comme la Mona Lisa et la Cène, était également un inventeur prolifique, concevant des machines volantes, des ponts et des armes."
+        },
+        {
+            "Cinéma": "Le premier film réalisé par des frères Auguste et Louis Lumière en 1895 s'intitulait 'La Sortie de l'usine Lumière à Lyon' et est souvent considéré comme le premier film de l'histoire du cinéma."
+        },
+        {
+            "Musique": "La chanson 'Happy Birthday' est l'une des chansons les plus connues au monde et est chantée dans de nombreuses langues lors de célébrations d'anniversaire."
+        },
+        {
+            "Technologie": "Le World Wide Web a été inventé par Tim Berners-Lee en 1989, révolutionnant la façon dont les gens accèdent et partagent des informations à travers le monde."
+        }
+    ]
+}
